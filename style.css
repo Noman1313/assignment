@@ -1,3 +1,6 @@
+h1{
+    text-align: center;
+}
 h2{
     font-size: 40px;
 }
@@ -5,8 +8,14 @@ h3{
     font-size: 40px;
     color: goldenrod;
 }
+h4{
+    font-size: 30px;
+}
+h5{
+    font-size: 20px;
+}
 p{
-    font-size: 15px;
+    font-size: 12px;
 }
 .div1{
     width: 40%;
@@ -15,6 +24,15 @@ p{
     margin-left: 5%;
 }
 .div1 img{
+    width: 70%;
+}
+.div2{
+    width: 25%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.div2 img{
     width: 70%;
 }
 .link{
@@ -26,3 +44,23 @@ p{
     font-weight: 700;
 
 }
+.sec1{
+    background: azure;
+    height: 400px;
+}
+.sec{
+    height: 300px;
+    padding-bottom: 100px;
+}
+span{
+    color: red;
+}
+.div2{
+    background:white;
+    border-radius: 10px;
+}
+.div3 img{
+    width: 60%;
+    display:block;
+}
+    
