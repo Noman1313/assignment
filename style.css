@@ -14,6 +14,9 @@ h4{
 h5{
     font-size: 20px;
 }
+h6{
+    font-size: 15px;
+}
 p{
     font-size: 12px;
 }
@@ -45,12 +48,17 @@ p{
 
 }
 .sec1{
-    background: azure;
-    height: 400px;
+    background: rgb(163, 241, 241);
+    height: 500px;
+    text-align: center;
 }
 .sec{
     height: 300px;
     padding-bottom: 100px;
+}
+.sec2{
+    height: 400px;
+    padding-top: 100px;
 }
 span{
     color: red;
@@ -61,6 +69,20 @@ span{
 }
 .div3 img{
     width: 60%;
-    display:block;
 }
+.div3{
+    text-align: center;
+    height: 200px;
+    background-image: url(image/Group_33094_1.png);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position:top;
+}
+.div4{
+    text-align: center;
+}
+.div4 img{
+    width: 3%;
+}
+
     
